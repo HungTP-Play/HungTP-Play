@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+my name is Tran Phat Hung (you can call me Hung for short)
 
 Here are some ideas to get you started:
 
