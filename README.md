@@ -17,3 +17,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hungtp-play&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### My Blogs
+- Tech: https://github.com/HungTP-Play/Hung-on-tech
+- Product: https://github.com/HungTP-Play/Hung-on-Product-Management
